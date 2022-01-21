@@ -1,0 +1,16 @@
+.head1{
+   background-color: indigo;
+   color: rgb(236, 215, 18);
+   text-align: center;
+}
+.banner{
+    width: 100%;
+    background-color: #000;
+}
+.title3{
+    text-align: center;
+}
+.title4{
+    text-align: center;
+    background-color: rgb(86, 112, 160);
+}
